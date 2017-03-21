@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.haiyue.me/about/index.html</loc>
+    
+    <lastmod>2017-03-21T06:57:48.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.haiyue.me/2016/12/21/jenkins/</loc>
     
     <lastmod>2016-12-21T07:47:05.000Z</lastmod>
@@ -159,13 +166,6 @@
     <loc>http://www.haiyue.me/2016/02/02/es6-class/</loc>
     
     <lastmod>2016-02-02T10:37:02.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.haiyue.me/about/index.html</loc>
-    
-    <lastmod>2016-02-02T07:45:01.000Z</lastmod>
     
   </url>
   
