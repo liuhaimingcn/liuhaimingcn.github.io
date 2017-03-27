@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.haiyue.me/"/>
-  <updated>2016-12-21T07:47:05.000Z</updated>
+  <updated>2017-03-27T06:41:17.000Z</updated>
   <id>http://www.haiyue.me/</id>
   
   <author>
@@ -14,6 +14,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Linux调优</title>
+    <link href="http://www.haiyue.me/2017/03/27/linux-kernel/"/>
+    <id>http://www.haiyue.me/2017/03/27/linux-kernel/</id>
+    <published>2017-03-26T16:00:00.000Z</published>
+    <updated>2017-03-27T06:41:17.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="打开文件数设置"><a href="#打开文件数设置" class="headerlink" title="打开文件数设置"></a>打开文件数设置</h3><figure class="highlight sh"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">cat &gt;&gt; /etc/security/limits.conf &lt;&lt; EOF</div><div class="line">* soft nofile 65535</div><div class="line">* hard nofile 65535</div><div class="line">EOF</div></pre></td></tr></table></figure>
+<a id="more"></a>
+<h3 id="Linux内核调优"><a href="#Linux内核调优" class="headerlink" title="Linux内核调优"></a>Linux内核调优</h3><figure class="highlight sh"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div></pre></td><td class="code"><pre><div class="line">cat &gt;&gt; /etc/sysctl.conf &lt;&lt; EOF</div><div class="line"><span class="comment"># 该参数设置系统的TIME_WAIT的数量，如果超过默认值则会被立即清除</span></div><div class="line">net.ipv4.tcp_max_tw_buckets = 20000</div><div class="line"><span class="comment"># 定义了系统中每一个端口最大的监听队列的长度，这是个全局的参数</span></div><div class="line">net.core.somaxconn = 65535</div><div class="line"><span class="comment"># 对于还未获得对方确认的连接请求，可保存在队列中的最大数目</span></div><div class="line">net.ipv4.tcp_max_syn_backlog = 262144</div><div class="line"><span class="comment"># 在每个网络接口接收数据包的速率比内核处理这些包的速率快时，允许送到队列的数据包的最大数目</span></div><div class="line">net.core.netdev_max_backlog = 30000</div><div class="line"><span class="comment"># 能够更快地回收TIME-WAIT套接字。此选项会导致处于NAT网络的客户端超时，建议为0</span></div><div class="line">net.ipv4.tcp_tw_recycle = 0</div><div class="line"><span class="comment"># 系统所有进程一共可以打开的文件数量</span></div><div class="line">fs.file-max = 6815744</div><div class="line">EOF</div></pre></td></tr></table></figure>
+<p><br></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;打开文件数设置&quot;&gt;&lt;a href=&quot;#打开文件数设置&quot; class=&quot;headerlink&quot; title=&quot;打开文件数设置&quot;&gt;&lt;/a&gt;打开文件数设置&lt;/h3&gt;&lt;figure class=&quot;highlight sh&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;2&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;3&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;4&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;cat &amp;gt;&amp;gt; /etc/security/limits.conf &amp;lt;&amp;lt; EOF&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;* soft nofile 65535&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;* hard nofile 65535&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;EOF&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+    
+    </summary>
+    
+      <category term="编程" scheme="http://www.haiyue.me/categories/%E7%BC%96%E7%A8%8B/"/>
+    
+    
+      <category term="Linux" scheme="http://www.haiyue.me/tags/Linux/"/>
+    
+  </entry>
   
   <entry>
     <title>使用jenkins进行项目的自动构建部署</title>
@@ -1238,28 +1264,6 @@ for (var key of Object.keys(someObject)) {
     
     
       <category term="js" scheme="http://www.haiyue.me/tags/js/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>三亚春节</title>
-    <link href="http://www.haiyue.me/2016/02/16/photo/sanyacunjie/"/>
-    <id>http://www.haiyue.me/2016/02/16/photo/sanyacunjie/</id>
-    <published>2016-02-15T16:00:00.000Z</published>
-    <updated>2016-02-16T07:34:11.000Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="http://7xia33.com1.z0.glb.clouddn.com/sanyaIMG_8180.jpg" alt=""><br>    在三亚过的春节，也没怎么出去玩……<br><a id="more"></a><br><img src="http://7xia33.com1.z0.glb.clouddn.com/sanyaIMG_8062.JPG" alt=""><br><img src="http://7xia33.com1.z0.glb.clouddn.com/sanyaIMG_8151.JPG" alt=""><br><img src="http://7xia33.com1.z0.glb.clouddn.com/sanyaIMG_8077.JPG" alt=""><br><img src="http://7xia33.com1.z0.glb.clouddn.com/sanyaIMG_8206.JPG" alt=""><br><img src="http://7xia33.com1.z0.glb.clouddn.com/sanyaIMG_8194.JPG" alt="">    </p>
-<p><br></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;http://7xia33.com1.z0.glb.clouddn.com/sanyaIMG_8180.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;    在三亚过的春节，也没怎么出去玩……&lt;br&gt;
-    
-    </summary>
-    
-      <category term="摄影" scheme="http://www.haiyue.me/categories/%E6%91%84%E5%BD%B1/"/>
-    
     
   </entry>
   
