@@ -2,9 +2,233 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.haiyue.me/2017/03/27/linux-kernel/</loc>
+    <loc>http://www.haiyue.me/2017/04/05/Java/volatile/</loc>
     
-    <lastmod>2017-03-27T06:41:17.000Z</lastmod>
+    <lastmod>2017-04-05T09:41:34.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.haiyue.me/2017/04/05/Linux/dns-records/</loc>
+    
+    <lastmod>2017-04-05T09:38:55.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.haiyue.me/2016/09/06/Nginx/nginx-install/</loc>
+    
+    <lastmod>2017-04-05T09:36:26.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.haiyue.me/2015/10/28/Photo/xiangshan/</loc>
+    
+    <lastmod>2017-04-05T09:34:43.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.haiyue.me/2016/02/16/Photo/sanyacunjie/</loc>
+    
+    <lastmod>2017-04-05T09:34:38.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.haiyue.me/2016/01/06/Photo/lansegangwan/</loc>
+    
+    <lastmod>2017-04-05T09:34:32.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.haiyue.me/2016/01/06/Photo/beijingdaxue/</loc>
+    
+    <lastmod>2017-04-05T09:34:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.haiyue.me/2016/05/13/Java/UnsupportedOperationException/</loc>
+    
+    <lastmod>2017-04-05T09:33:05.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.haiyue.me/2016/10/25/SpringBoot/yml-evn/</loc>
+    
+    <lastmod>2017-04-05T09:32:39.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.haiyue.me/2016/05/26/MySQL/sql/</loc>
+    
+    <lastmod>2017-04-05T09:30:19.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.haiyue.me/2016/10/24/SpringBoot/spring-boot-single-main/</loc>
+    
+    <lastmod>2017-04-05T09:29:47.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.haiyue.me/2016/10/26/SpringBoot/spring-boot-no-beans/</loc>
+    
+    <lastmod>2017-04-05T09:29:30.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.haiyue.me/2016/10/27/SpringBoot/spring-boot-jedis/</loc>
+    
+    <lastmod>2017-04-05T09:29:19.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.haiyue.me/2016/02/23/JavaScript/promises/</loc>
+    
+    <lastmod>2017-04-05T09:08:59.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.haiyue.me/2015/07/22/JavaScript/nexttick_immediate/</loc>
+    
+    <lastmod>2017-04-05T09:07:41.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.haiyue.me/2016/05/26/MySQL/mysql-batch-delete/</loc>
+    
+    <lastmod>2017-04-05T09:07:06.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.haiyue.me/2016/11/10/RPC/motan-hello/</loc>
+    
+    <lastmod>2017-04-05T09:06:13.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.haiyue.me/2017/03/27/Linux/linux-kernel/</loc>
+    
+    <lastmod>2017-04-05T09:05:21.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.haiyue.me/2016/12/06/Java/jvm/</loc>
+    
+    <lastmod>2017-04-05T09:04:43.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.haiyue.me/2015/07/23/Linux/iterm2/</loc>
+    
+    <lastmod>2017-04-05T09:03:59.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.haiyue.me/2016/12/21/Architecture/jenkins/</loc>
+    
+    <lastmod>2017-04-05T09:02:15.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.haiyue.me/2016/07/05/Node.js/escape/</loc>
+    
+    <lastmod>2017-04-05T08:59:46.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.haiyue.me/2016/02/02/JavaScript/es6-style/</loc>
+    
+    <lastmod>2017-04-05T08:58:10.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.haiyue.me/2015/10/26/JavaScript/es6-string/</loc>
+    
+    <lastmod>2017-04-05T08:57:57.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.haiyue.me/2016/02/02/JavaScript/es6-module/</loc>
+    
+    <lastmod>2017-04-05T08:57:43.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.haiyue.me/2016/02/18/JavaScript/ES6-in-depth/</loc>
+    
+    <lastmod>2017-04-05T08:57:29.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.haiyue.me/2015/10/28/JavaScript/es6-generator/</loc>
+    
+    <lastmod>2017-04-05T08:57:12.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.haiyue.me/2016/02/02/JavaScript/es6-class/</loc>
+    
+    <lastmod>2017-04-05T08:56:55.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.haiyue.me/2016/11/04/Architecture/elk/</loc>
+    
+    <lastmod>2017-04-05T08:56:04.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.haiyue.me/2016/05/11/Architecture/cache/</loc>
+    
+    <lastmod>2017-04-05T08:54:57.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.haiyue.me/2016/10/09/Docker/docker-hello-world/</loc>
+    
+    <lastmod>2017-04-05T08:54:20.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.haiyue.me/2016/12/16/JavaScript/%E5%B0%BE%E8%B0%83%E7%94%A8%E4%BC%98%E5%8C%96/</loc>
+    
+    <lastmod>2017-04-05T08:48:47.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.haiyue.me/2016/05/28/Android/android-base/</loc>
+    
+    <lastmod>2017-04-05T08:48:33.000Z</lastmod>
     
   </url>
   
@@ -12,202 +236,6 @@
     <loc>http://www.haiyue.me/about/index.html</loc>
     
     <lastmod>2017-03-21T06:57:48.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.haiyue.me/2016/12/21/jenkins/</loc>
-    
-    <lastmod>2016-12-21T07:47:05.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.haiyue.me/2016/12/16/%E5%B0%BE%E8%B0%83%E7%94%A8%E4%BC%98%E5%8C%96/</loc>
-    
-    <lastmod>2016-12-16T08:48:33.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.haiyue.me/2016/12/06/jvm/</loc>
-    
-    <lastmod>2016-12-06T03:05:39.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.haiyue.me/2016/11/10/motan-hello/</loc>
-    
-    <lastmod>2016-11-10T04:29:44.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.haiyue.me/2016/11/04/elk/</loc>
-    
-    <lastmod>2016-11-04T07:46:46.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.haiyue.me/2016/10/27/spring-boot-jedis/</loc>
-    
-    <lastmod>2016-10-27T10:26:24.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.haiyue.me/2016/10/26/spring-boot-no-beans/</loc>
-    
-    <lastmod>2016-10-26T09:08:49.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.haiyue.me/2016/10/25/yml-evn/</loc>
-    
-    <lastmod>2016-10-25T06:52:51.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.haiyue.me/2016/10/24/spring-boot-single-main/</loc>
-    
-    <lastmod>2016-10-24T09:11:29.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.haiyue.me/2016/10/09/docker-hello-world/</loc>
-    
-    <lastmod>2016-10-09T07:52:57.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.haiyue.me/2016/09/06/nginx-install/</loc>
-    
-    <lastmod>2016-09-06T10:41:21.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.haiyue.me/2016/07/05/escape/</loc>
-    
-    <lastmod>2016-07-05T07:27:28.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.haiyue.me/2016/05/28/android-base/</loc>
-    
-    <lastmod>2016-06-28T06:56:43.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.haiyue.me/2016/05/26/sql/</loc>
-    
-    <lastmod>2016-05-26T09:49:12.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.haiyue.me/2016/05/26/mysql-batch-delete/</loc>
-    
-    <lastmod>2016-05-26T08:08:12.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.haiyue.me/2016/05/13/UnsupportedOperationException/</loc>
-    
-    <lastmod>2016-05-13T07:47:18.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.haiyue.me/2016/05/11/cache/</loc>
-    
-    <lastmod>2016-05-11T06:10:11.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.haiyue.me/2016/02/23/promises/</loc>
-    
-    <lastmod>2016-02-23T04:28:23.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.haiyue.me/2016/02/18/ES6-in-depth/</loc>
-    
-    <lastmod>2016-02-18T07:10:27.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.haiyue.me/2016/02/16/photo/sanyacunjie/</loc>
-    
-    <lastmod>2016-02-16T07:34:11.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.haiyue.me/2016/02/02/es6-style/</loc>
-    
-    <lastmod>2016-02-02T10:41:12.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.haiyue.me/2016/02/02/es6-module/</loc>
-    
-    <lastmod>2016-02-02T10:39:40.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.haiyue.me/2016/02/02/es6-class/</loc>
-    
-    <lastmod>2016-02-02T10:37:02.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.haiyue.me/2015/03/10/web-sit/</loc>
-    
-    <lastmod>2016-02-02T04:14:17.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.haiyue.me/2015/03/26/summary/</loc>
-    
-    <lastmod>2016-02-02T04:13:55.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.haiyue.me/2015/07/22/nexttick_immediate/</loc>
-    
-    <lastmod>2016-02-02T04:13:35.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.haiyue.me/2015/07/23/iterm2/</loc>
-    
-    <lastmod>2016-02-02T04:13:10.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.haiyue.me/2015/10/28/es6-generator/</loc>
-    
-    <lastmod>2016-02-02T04:12:17.000Z</lastmod>
     
   </url>
   
@@ -222,34 +250,6 @@
     <loc>http://www.haiyue.me/categories/index.html</loc>
     
     <lastmod>2016-02-02T03:55:41.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.haiyue.me/2016/01/06/photo/beijingdaxue/</loc>
-    
-    <lastmod>2016-02-01T10:25:01.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.haiyue.me/2015/10/28/photo/xiangshan/</loc>
-    
-    <lastmod>2016-02-01T10:22:39.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.haiyue.me/2016/01/06/photo/lansegangwan/</loc>
-    
-    <lastmod>2016-02-01T10:18:33.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.haiyue.me/2015/10/26/es6-string/</loc>
-    
-    <lastmod>2016-02-01T09:22:12.000Z</lastmod>
     
   </url>
   
