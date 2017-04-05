@@ -1,1 +1,1 @@
-http://www.haiyue.me/2017/04/05/Java/volatile/
+http://haiyue.me/2017/04/05/Linux/dns-records/
